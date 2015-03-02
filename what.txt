@@ -1,4 +1,4 @@
 So we could start by typing a few lines
 Pretend these are code
-Maybe there'll be conflicts
+/* Maybe there'll be conflicts */
 Let's make some change
