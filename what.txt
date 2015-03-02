@@ -2,4 +2,4 @@ So we could start by typing a few lines
 
 Pretend these are code
 May there'll be conflicts
-I'm making some changes, hello, hello
+I'm making some changes, hell, hell
